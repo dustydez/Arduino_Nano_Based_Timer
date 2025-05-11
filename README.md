@@ -36,3 +36,6 @@ Buttons are connected to ground, and their pins are configured with internal pul
 2. Use the Minute and Second buttons to set the timer.
 3. Press Start/Stop to begin countdown.
 4. Hold Start/Stop for 3 seconds to reset timer at any point.
+
+## Note
+In the reference picture, an Arduino Uno has been used instead of an Arduino Nano. The connections remain the same.
